@@ -66,7 +66,7 @@ Both systems must be connected to the same **Wi-Fi network**.
 
 ## 🎥 Demo
 
-If you have a YouTube video, replace the link below with yours 👇
+Watch demo here 👇
 
 https://youtube.com/shorts/0idZQbRgyss?feature=share
 
