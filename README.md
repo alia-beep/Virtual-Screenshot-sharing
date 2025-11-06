@@ -70,7 +70,6 @@ If you have a YouTube video, replace the link below with yours 👇
 
 [![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([https://youtu.be/YOUR_VIDEO_LINK](https://youtube.com/shorts/0idZQbRgyss?feature=share))
 
-Or upload a screenshot/gif:
 
 ```markdown
 
