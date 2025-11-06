@@ -1,0 +1,5 @@
+opencv-python==4.9.0.80  
+numpy==1.26.4  
+pillow==10.2.0  
+pickle-mixin==1.0.2  
+structlog==24.1.0
