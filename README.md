@@ -72,7 +72,7 @@ Watch demo here 👇
 
 
 ```markdown
-https://youtube.com/shorts/0idZQbRgyss?feature=share
+https://youtube.com/shorts/0idZQbRgyss
 ```
 ---
 
