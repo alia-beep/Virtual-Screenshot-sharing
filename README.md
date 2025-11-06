@@ -68,11 +68,11 @@ Both systems must be connected to the same **Wi-Fi network**.
 
 Watch demo here 👇
 
-https://youtube.com/shorts/0idZQbRgyss?feature=share
+
 
 
 ```markdown
-
+https://youtube.com/shorts/0idZQbRgyss?feature=share
 ```
 ---
 
