@@ -73,7 +73,7 @@ If you have a YouTube video, replace the link below with yours 👇
 Or upload a screenshot/gif:
 
 ```markdown
-demo.mp4
+https://youtube.com/shorts/0idZQbRgyss?feature=share
 ```
 ---
 
@@ -89,4 +89,4 @@ demo.mp4
 ## 💬 Connect
 
 🌐 GitHub: [alia-beep](https://github.com/alia-beep)
-📧 Email: [yourname@email.com](mailto:yourname@email.com)
+
